@@ -70,6 +70,7 @@
 
 *   [clean-css](https://github.com/jakubpawlowicz/clean-css)
     — Fast and efficient CSS optimizer for node.js and the Web
+*   Remove unused css files / use cascading
 *   Don't use unnecessary classes
 *   Remove inline css and add it in a seperate file
 *   Critical CSS
@@ -82,6 +83,7 @@
 
 *   [html-minifier](https://github.com/kangax/html-minifier)
     — Javascript-based HTML compressor/minifier
+*   Remove unused js files
 
 ### JavaScript
 
@@ -93,6 +95,7 @@
 *   Avoid blocking scripts, so use defer/async or put your code at the bottom 
 
 ### Fonts
+
 *   Subset fonts using fontsquirrel
 *   load fallback font before custom font show content faster
     https://github.com/bramstein/fontfaceobserver
