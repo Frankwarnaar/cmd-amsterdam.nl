@@ -3,6 +3,7 @@
 ## Miscellaneous
 
 *   Tip: Apart Profiel / gebruiker in Chrome zonder plugins
+*   [Use gzip compression on assets](http://softstribe.com/wordpress/enable-gzip-compression-in-wordpress/)
 
 ## HTTP optimisation
 
@@ -30,6 +31,8 @@
 *   [client hints](http://httpwg.org/http-extensions/client-hints.html)		
 *   [`srcset`](https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/) and [`sizes`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#Example_4_Using_the_srcset_and_sizes_attributes)		
 *   [`<picture>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)		
+* [webp](https://developers.google.com/speed/webp/)
+   — Images can be placed as webp to reduce image sizes. You can convert the images to a .webp mimetype. Use current mimetypes as fallback while, using the picture element.
 	
 ## Caching	
 
@@ -56,5 +59,4 @@
 ### Fonts
 
 ### Images
-* [webp](https://developers.google.com/speed/webp/)
-   — Images can be placed as webp to reduce image sizes. You can convert the images to a .webp mimetype. Use current mimetypes as fallback while, using the picture element.
+*   Downsize images with Adobe PhotoShop, by saving for web
