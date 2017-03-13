@@ -57,4 +57,4 @@
 
 ### Images
 * [webp](https://developers.google.com/speed/webp/)
-   — Images can be placed as webp to reduce image sizes. Use current mimetypes as fallback.
+   — Images can be placed as webp to reduce image sizes. You can convert the images to a .webp mimetype. Use current mimetypes as fallback while, using the picture element.
